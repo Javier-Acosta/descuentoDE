@@ -1,10 +1,29 @@
-
+import { menuItems } from "./data/db"
 
 function App() {
+console.log(menuItems);
 
   return (
     <>
-      <h1>Hola mundo</h1>
+   <header className="bg-teal-400 py-5">
+      <h1 className="text-center text-4xl">Descuentos Diasensueño 2024</h1> 
+      </header>
+    
+    <main className="max-w-7xl mx-auto py-20 grid md:grid-cols-2">
+      <div>
+
+      <h1>Menú</h1>
+      
+      </div>
+
+      <div>
+
+      <h2>Consumo</h2>
+      
+      </div>
+
+    </main>
+
     </>
   )
 }
