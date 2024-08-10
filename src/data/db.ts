@@ -2,62 +2,62 @@ import { MenuItem } from "../types"
 export const menuItems : MenuItem [] = [
     {
       "id": 1,
-      "name": "Pizza a la Leña Chica",
-      "price": 30
+      "name": "Dogui x 21 kil",
+      "price": 38000
     },
     {
       "id": 2,
-      "name": "Pizza a la Leña Mediana",
-      "price": 50
+      "name": "Tiernitos x 21 kil",
+      "price": 31000
     },
     {
       "id": 3,
-      "name": "Rebanada de Pay de Limón",
-      "price": 30
+      "name": "Dogpro x 21 kil",
+      "price": 46000
     },
     {
       "id": 4,
-      "name": "Rebanada de Pastel de Chocolate",
-      "price": 30
+      "name": "Pastel de Chocolate",
+      "price": 1500
     },
     {
       "id": 5,
       "name": "Jugo de Naranja",
-      "price": 15
+      "price": 500
     },
     {
       "id": 6,
       "name": "Pizza a la Leña Grande",
-      "price": 70
+      "price": 2500
     },
     {
       "id": 7,
-      "name": "Rib Eye 800g",
-      "price": 100
+      "name": "Leche sache",
+      "price": 1300
     },
     {
       "id": 8,
       "name": "Jugo de Naranja",
-      "price": 15
+      "price": 750
     },
     {
       "id": 9,
-      "name": "Tequila",
-      "price": 40
+      "name": "Gaseosa",
+      "price": 2500
     },
     {
       "id": 10,
-      "name": "Rebanada de Pay de Queso",
-      "price": 30
+      "name": "Fernet",
+      "price": 8000
     },
     {
       "id": 11,
-      "name": "Café Americano",
-      "price": 20
+      "name": "Café Virginia",
+      "price": 7800
     },
     {
       "id": 12,
-      "name": "Café Capuchino",
-      "price": 40
+      "name": "papa el kilo",
+      "price": 350
     }
 ]
