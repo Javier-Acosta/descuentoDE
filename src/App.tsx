@@ -14,7 +14,7 @@ const {order, addItem, removeItem, tip, setTip } =useOrder()
   return (
     <>
    <header className="bg-teal-400 py-5">
-      <h1 className="text-center text-4xl">Descuentos Diasensueño 2024</h1> 
+      <h1 className="text-center text-4xl">Trabajo Práctico N°1 - One Shot  2024</h1> 
       </header>
     
     <main className="max-w-7xl mx-auto py-20 grid md:grid-cols-2">
